@@ -109,11 +109,24 @@ h1 {
     border-top: 1px solid rgb(0, 0, 0);
     border-bottom: 1px solid rgb(0, 0, 0);
 }
+.boxtype1:hover {
+    width: 100%;
+    border-top: 1px solid rgb(0, 0, 0);
+    border-bottom: 1px solid rgb(0, 0, 0);
+    opacity: .7;
+}
 
 .boxtype2 {
     width: 100%; 
     border-top: 1px solid rgb(0, 0, 0);
     border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+.boxtype2:hover {
+    width: 100%; 
+    border-top: 1px solid rgb(0, 0, 0);
+    border-bottom: 1px solid rgb(0, 0, 0);
+    opacity: .7;
 }
 
 .boxtype1:hover > img {
